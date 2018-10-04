@@ -1,0 +1,23 @@
+{
+  "name": "mon_super_site",
+  "version": "1.0.0",
+  "description": "le site de base",
+  "main": "index.js",
+  "dependencies": {
+    "bulma": "^0.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "https://github.com/arousselotvi/monSuperSite.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arousselotvi/monSuperSite.git"
+  },
+  "author": "Sebastien Gahat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arousselotvi/monSuperSite/issues"
+  },
+  "homepage": "https://github.com/arousselotvi/monSuperSite#readme"
+}
